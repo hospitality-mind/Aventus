@@ -1,0 +1,220 @@
+@media all and (max-width: 991px){
+    
+    .service-inner-new {
+       margin-top: 0;
+    }
+ }
+ 
+ @media (max-width: 575px) {
+    .service-inner-new {
+       margin-top: 0;
+    }
+}
+.service-inner-new {
+    margin-top: 0px;
+}
+.footer__service-new{
+    padding-left: 20px !important;
+}
+
+.contact__form.contact__form select {
+    margin-bottom: 30px;
+}
+.contact__form-5 form select {
+    border-color: #CFD2D4 !important;
+    border-radius: 20px !important;
+    color: #0E1E2A !important;
+}
+.contact__form form select{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: var(--white);
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid var(--white);
+    background: transparent;
+    opacity: 1;
+    padding: 12px 20px;
+    text-transform: capitalize;
+    border-radius: 30px;
+}
+.contact__form form select option{
+    background: #c8ad60;
+    font-size: 18px;
+    color: white;
+}
+
+.blog__form select {
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #E3E3E3;
+    border-radius: 50px;
+    height: 51px;
+    margin-bottom: 20px;
+}
+@media (min-width: 1200px){
+    .offer-price {
+        max-width: 1250px;
+    }    
+}
+.service__content ul li{
+    list-style-type: disc;
+}
+.service__details .row .img img{
+    height: 500px;
+}
+.service__details .more-service__item .icon-box{
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.service__details .more-service__item .icon-box img{
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    height: 93px;
+    width: 93px;
+}
+.Service{
+    padding-top: 300px;
+    padding-bottom: 192px;
+    background-image: url('/images/Services.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover;   */
+    
+}
+.Career{
+    padding-top: 300px;
+    padding-bottom: 192px;
+    background-image: url('/images/Career.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover;   */
+    
+}
+.Contact{
+    padding-top: 300px;
+    padding-bottom: 192px;
+    background-image: url('/images/Contact-us.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover;   */
+    
+}
+.blog{
+    padding-top: 300px;
+    padding-bottom: 192px;
+    background-image: url('/images/Blog.png') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover;   */
+}
+.about-us{
+    padding-top: 300px;
+    padding-bottom: 192px;
+    background-image: url('/images/About-us.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+}
+.header__area{
+    background: #faf9f6;
+}
+/* .team__content p a{
+    color: var(--white);
+    text-transform: capitalize;
+    padding-top: 0;
+} */
+.team__content p a:hover{
+    color: white;
+
+}
+.team__content:hover p a{
+    color: white;
+}
+.blog__form {
+    padding-top: 10px;
+}
+.contact__item p a{
+    padding: 10px;
+}
+.breadcrumb__inner{
+    display: block;
+}
+.second-image{
+    padding-left: 80px;
+}
+.service__details-title{
+    font-size: 30px;
+}
+.blog__form input, .blog__form textarea, .blog__form select{
+    border: 1px solid black;
+}
+
+.db-btn-main-color-one, .db-btn-main-color-one:hover {
+    color: var(--white);
+    background-color: var(--main-color-one);
+    border-radius: 50px !important;
+}
+
+.testimonial-carousel {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.testimonial-slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.testimonial-slide {
+    flex: 0 0 100%;
+    padding: 20px;
+    user-select: none;
+}
+
+
+.pagination-dots {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.pagination-dots .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #ccc;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.pagination-dots .dot.active {
+    background-color: #555;
+}
+
+
+.blog__form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #E3E3E3;
+    border-radius: 50px;
+    height: 51px;
+    margin-bottom: 20px;
+}
+.pb-50{
+    padding-bottom: 50px;
+}
+.hero__title{
+    font-size: 70px;
+}
+.form-shadow {
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+    background-color: #f2f2f2; /* This is a light gray color */
+    padding-top: 30px !important;
+    padding-bottom: 30px  !important;
+}
