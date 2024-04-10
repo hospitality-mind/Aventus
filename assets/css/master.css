@@ -870,7 +870,7 @@ img {
   line-height: 1;
   font-weight: 600;
   letter-spacing: 0.16px;
-  text-transform: capitalize;
+  text-transform: none;
   color: var(--black-3);
   padding-bottom: 25px;
 }
@@ -1332,7 +1332,7 @@ img {
   color: var(--black-2);
   font-size: 16px;
   padding: 30px 8px;
-  text-transform: capitalize;
+  text-transform: none;
 }
 .main-menu ul li a:hover {
   color: var(--main-color-one);
@@ -1495,7 +1495,7 @@ img {
   font-size: 18px;
   color: var(--white);
   padding-bottom: 10px;
-  text-transform: capitalize;
+  text-transform: none;
 }
 .main-menu .mega-menu li a {
   padding: 8px 5px;
@@ -1778,7 +1778,7 @@ img {
   outline: none;
   border: none;
   border-radius: 5px;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 /*----------------------------------------*/
@@ -1868,7 +1868,7 @@ img {
 .offcanvas-menu li a {
   font-size: 15px;
   color: var(--white);
-  text-transform: capitalize;
+  text-transform: none;
   padding: 7px 0;
   display: block;
 }
@@ -1974,7 +1974,7 @@ img {
   width: 97%;
 }
 .mean-container .mean-nav ul li a {
-  text-transform: capitalize;
+  text-transform: none;
   background-color: #1f242c;
   border-color: rgba(255, 255, 255, 0.1);
 }
